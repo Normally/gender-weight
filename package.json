@@ -1,0 +1,13 @@
+{
+	"name": "gender-weight",
+	"version": "0.0.1",
+	"description": "Find the gender weight in text",
+	"scripts": {
+		"generate-regex": "node generateRegex.js",
+		"test": "node test.js"
+	},
+	"main": "index.js",
+	"author": "Nic Mulvaney",
+	"repository": "github:normally/gender-weight",
+	"license": "MIT"
+}
